@@ -1,1 +1,2 @@
-# Portofolio-Building
+#E-Commerce Customer Analytics: Churn, Segmentation & Promo Optimization
+End-to-end analysis of an e-commerce customer dataset (5,630 customers, 20 features) in Python. Built a multi-strategy imputation pipeline with before-and-after audit, trained churn models (Random Forest reached 0.988 ROC-AUC and 84% recall, versus 31% for logistic regression), segmented customers into four groups with K-Means, and derived promo recommendations showing coupons drive order frequency while cashback is better suited for retention.
